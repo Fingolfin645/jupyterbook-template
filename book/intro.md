@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Welcome to the TASC Jupyter Book!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book is the go to place for documentation on all things to do with the TASC capstone at USAFA.
 
-Check out the content pages bundled with this sample book to see more.
+The goal of the project is an autonomous dropne swarm capable of searching a given area for a target.
+Below is a table of contents including all the subsystems of the project. Each page holds instructions on how to set up and use each subsystem.
 
 ```{tableofcontents}
 ```
